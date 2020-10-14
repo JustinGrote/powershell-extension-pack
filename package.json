@@ -3,12 +3,17 @@
     "displayName": "Powershell Extension Pack",
     "description": "A collection of extensions to improve the Powershell development experience in Visual Studio Code",
     "version": "0.0.1",
+    "publisher": "justingrote",
     "engines": {
         "vscode": "^1.50.0"
     },
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/justingrote/powershell-extension-pack.git"
+    },
     "extensionPack": [
         "ms-vscode.powershell-preview",
         "CoenraadS.bracket-pair-colorizer-2",
@@ -35,5 +40,14 @@
         "ms-vscode-remote.vscode-remote-extensionpack",
         "ms-vscode-remote.remote-ssh-edit",
         "hediet.vscode-drawio"
+    ],
+    "icon": "images/logo.png",
+    "author": {
+        "name": "Justin Grote",
+        "url": "https://twitter.com/JustinWGrote"
+    },
+    "keywords": [
+        "powershell",
+        "pwsh"
     ]
 }
