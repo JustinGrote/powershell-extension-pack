@@ -1,0 +1,39 @@
+{
+    "name": "powershell-extension-pack",
+    "displayName": "Powershell Extension Pack",
+    "description": "A collection of extensions to improve the Powershell development experience in Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-vscode.powershell-preview",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "oderwat.indent-rainbow",
+        "usernamehw.errorlens",
+        "richie5um2.vscode-sort-json",
+        "wwm.better-align",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "anseki.vscode-color",
+        "Gruntfuggly.todo-tree",
+        "bierner.markdown-checkbox",
+        "fabianlauer.vs-code-xml-format",
+        "GrapeCity.gc-excelviewer",
+        "johnpapa.vscode-peacock",
+        "LouisWT.regexp-preview",
+        "ms-vscode.js-debug-nightly",
+        "slevesque.vscode-zipexplorer",
+        "vscode-icons-team.vscode-icons",
+        "vsls-contrib.codetour",
+        "vsls-contrib.gistfs",
+        "vsls-contrib.gitdoc",
+        "yzhang.markdown-all-in-one",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vscode-remote.remote-ssh-edit",
+        "hediet.vscode-drawio"
+    ]
+}
