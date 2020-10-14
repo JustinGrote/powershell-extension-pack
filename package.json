@@ -2,7 +2,7 @@
     "name": "powershell-extension-pack",
     "displayName": "Powershell Extension Pack",
     "description": "A collection of extensions to improve the Powershell development experience in Visual Studio Code",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "justin-grote",
     "engines": {
         "vscode": "^1.50.0"
@@ -36,6 +36,8 @@
         "vsls-contrib.codetour",
         "vsls-contrib.gistfs",
         "vsls-contrib.gitdoc",
+        "GitHub.vscode-pull-request-github",
+        "MS-vsliveshare.vsliveshare-pack",
         "yzhang.markdown-all-in-one",
         "ms-vscode-remote.vscode-remote-extensionpack",
         "ms-vscode-remote.remote-ssh-edit",
