@@ -47,7 +47,7 @@
         "pod212.vscode-github-projects",
         "redhat.vscode-yaml"
     ],
-    "icon": "./images/logo.png",
+    "icon": "images/logo.png",
     "author": {
         "name": "Justin Grote",
         "url": "https://twitter.com/JustinWGrote"
