@@ -2,17 +2,20 @@
     "name": "powershell-extension-pack",
     "displayName": "Powershell Extension Pack",
     "description": "A collection of extensions to improve the Powershell development experience in Visual Studio Code",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "justin-grote",
     "engines": {
         "vscode": "^1.50.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs", "Powershell"
     ],
     "repository": {
         "type": "git",
         "url": "https://github.com/justingrote/powershell-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/justingrote/powershell-extension-pack/issues"
     },
     "extensionPack": [
         "anseki.vscode-color",
@@ -27,22 +30,24 @@
         "mhutchie.git-graph",
         "ms-vscode-remote.remote-ssh-edit",
         "ms-vscode-remote.vscode-remote-extensionpack",
-        "ms-vscode.js-debug-nightly",
         "ms-vscode.powershell-preview",
-        "ms-vsliveshare.vsliveshare-pack",
         "oderwat.indent-rainbow",
         "richie5um2.vscode-sort-json",
         "slevesque.vscode-zipexplorer",
         "tylerleonhardt.vscode-pester-test-adapter",
+        "tylerleonhardt.vscode-inline-values-powershell",
         "usernamehw.errorlens",
         "vscode-icons-team.vscode-icons",
         "vsls-contrib.codetour",
         "vsls-contrib.gistfs",
         "vsls-contrib.gitdoc",
         "wwm.better-align",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "rangav.vscode-thunder-client",
+        "pod212.vscode-github-projects",
+        "redhat.vscode-yaml"
     ],
-    "icon": "images/logo.png",
+    "icon": "./images/logo.png",
     "author": {
         "name": "Justin Grote",
         "url": "https://twitter.com/JustinWGrote"
