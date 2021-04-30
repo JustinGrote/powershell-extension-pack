@@ -20,6 +20,7 @@
     "extensionPack": [
         "anseki.vscode-color",
         "coenraads.bracket-pair-colorizer-2",
+        "cschleiden.vscode-github-actions",
         "eamodio.gitlens",
         "fabianlauer.vs-code-xml-format",
         "github.vscode-pull-request-github",
