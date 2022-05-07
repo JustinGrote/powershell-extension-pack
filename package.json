@@ -2,7 +2,7 @@
     "name": "powershell-extension-pack",
     "displayName": "Powershell Extension Pack",
     "description": "A collection of extensions to improve the Powershell development experience in Visual Studio Code",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "justin-grote",
     "engines": {
         "vscode": "^1.50.0"
@@ -19,13 +19,16 @@
     },
     "extensionPack": [
         "anseki.vscode-color",
-        "coenraads.bracket-pair-colorizer-2",
+        "bierner.color-info",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-mermaid",
+        "bierner.markdown-preview-github-styles",
         "cschleiden.vscode-github-actions",
         "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
         "fabianlauer.vs-code-xml-format",
         "github.vscode-pull-request-github",
         "gruntfuggly.todo-tree",
-        "hbenl.vscode-test-explorer",
         "johnpapa.vscode-peacock",
         "louiswt.regexp-preview",
         "mhutchie.git-graph",
@@ -33,9 +36,12 @@
         "ms-vscode-remote.vscode-remote-extensionpack",
         "ms-vscode.powershell-preview",
         "oderwat.indent-rainbow",
+        "pod212.vscode-github-projects",
+        "pspester.pester-test",
+        "rangav.vscode-thunder-client",
+        "redhat.vscode-yaml",
         "richie5um2.vscode-sort-json",
         "slevesque.vscode-zipexplorer",
-        "tylerleonhardt.vscode-pester-test-adapter",
         "tylerleonhardt.vscode-inline-values-powershell",
         "usernamehw.errorlens",
         "vscode-icons-team.vscode-icons",
@@ -43,10 +49,7 @@
         "vsls-contrib.gistfs",
         "vsls-contrib.gitdoc",
         "wwm.better-align",
-        "yzhang.markdown-all-in-one",
-        "rangav.vscode-thunder-client",
-        "pod212.vscode-github-projects",
-        "redhat.vscode-yaml"
+        "yzhang.markdown-all-in-one"
     ],
     "icon": "images/logo.png",
     "author": {
