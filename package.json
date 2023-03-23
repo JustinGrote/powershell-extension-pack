@@ -2,7 +2,7 @@
     "name": "powershell-extension-pack",
     "displayName": "Powershell Extension Pack",
     "description": "A collection of extensions to improve the Powershell development experience in Visual Studio Code",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "justin-grote",
     "engines": {
         "vscode": "^1.50.0"
