@@ -1,5 +1,11 @@
 # Change Log
 
+## [v0.0.8]
+
+- Removed GitLens due to premium features. Git Blame and Source Control Graph are now native in vscode
+- Replaced Git Graph with Git Graph v3 (maintained with bugfixes)
+- Added Crisp Logs Formatter
+
 ## [v0.0.6]
 
 - Added multiple new markdown extensions, as READMEs and other docs are essential to PowerShell development
