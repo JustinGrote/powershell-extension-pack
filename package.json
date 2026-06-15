@@ -23,6 +23,7 @@
         "bierner.markdown-checkbox",
         "bierner.markdown-mermaid",
         "bierner.markdown-preview-github-styles",
+        "chouzz.vscode-better-align",
         "cschleiden.vscode-github-actions",
         "EditorConfig.EditorConfig",
         "everettjf.filter-line",
@@ -49,7 +50,6 @@
         "vsls-contrib.codetour",
         "vsls-contrib.gistfs",
         "vsls-contrib.gitdoc",
-        "wwm.better-align",
         "yzhang.markdown-all-in-one"
     ],
     "icon": "images/logo.png",
