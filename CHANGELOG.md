@@ -1,5 +1,13 @@
 # Change Log
 
+## [v0.0.9]
+
+- Remove Thunder Client due to premium features. 
+- Swap Github Actions with JustinGrote version for better rate limiting and integration
+- Add vscode-paste-image for easy pasting of images into markdown files
+- Remove Github Projects extension due to lack of support
+- Add vscode toggle quotes extension for easy toggling of quote styles
+
 ## [v0.0.8]
 
 - Removed GitLens due to premium features. Git Blame and Source Control Graph are now native in vscode
