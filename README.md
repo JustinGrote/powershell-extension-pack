@@ -4,6 +4,9 @@ This is an extension pack that includes many useful extensions that assist in Po
 
 It also includes useful extensions for working with GitHub and GitHub actions to encourage development there.
 
+> [!NOTE]
+> This pack includes `justin-grote.github-actions-enhanced`, a fork that is not compatible with the official GitHub Actions extension. If you have the official extension installed, the fork will prompt you with a conflict warning.
+
 # How to Install
 In vscode, click the extensions button and search for Powershell Extension Pack. You can choose to install the entire
 pack or just individual extensions as you like:
